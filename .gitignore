@@ -1,0 +1,4 @@
+serviceAccountKey.json
+.vscode
+venv
+.DS_Store
